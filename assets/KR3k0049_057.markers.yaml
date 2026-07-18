@@ -1632,6 +1632,7 @@ markers:
   - {type: punctuation, offset: 2795, content: 《, id: KR3k0049_CHANT_057-bkkpn700}
   - {type: punctuation, offset: 2798, content: 》, id: KR3k0049_CHANT_057-bkkpn701}
   - {type: punctuation, offset: 2798, content: (, id: KR3k0049_CHANT_057-bkkpn702}
+  - {type: voice, offset: 2798, length: 17, name: note, id: n1}
   - {type: variant, offset: 2803, length: 1, content: 幼, WYG: 㓜}
   - {type: variant, offset: 2803, length: 1, content: 幼, krp: 㓜}
   - {type: substitution, offset: 2807, original: 塚, replacement: 冢, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-18268}}
@@ -17502,4 +17503,4 @@ markers:
   - {type: punctuation, offset: 28297, content: 》, id: KR3k0049_CHANT_057-bkkpn6965}
   - {type: xml-element, offset: 28297, content: '', id: KR3k0049_CHANT_057-p1178_end}
   back: []
-hash: sha256:0af604d5a398c223b9377af6ee267d6a76e5cf781f81e0d46bdf7be0807fce4a
+hash: sha256:88e211a8123c062fb1ed7edd1aa8cc49b49b97103094ced187351aeaa75cc6b6

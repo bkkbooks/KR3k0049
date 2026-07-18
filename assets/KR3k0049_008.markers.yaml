@@ -10397,18 +10397,22 @@ markers:
   - {type: punctuation, offset: 18173, content: (, id: KR3k0049_CHANT_008-bkkpn4135}
   - {type: variant, offset: 18173, length: 1, content: 兗, WYG: 兖}
   - {type: variant, offset: 18173, length: 1, content: 兗, krp: 兖}
+  - {type: voice, offset: 18173, length: 6, name: note, id: n1}
   - {type: punctuation, offset: 18177, content: ，, id: KR3k0049_CHANT_008-bkkpn4136}
   - {type: punctuation, offset: 18179, content: ), id: KR3k0049_CHANT_008-bkkpn4137}
   - {type: page-break, offset: 18180, content: '', id: KR3k0049_WYG_008-62a, image: WYG0965/WYG0965-0356a.png}
   - {type: punctuation, offset: 18182, content: (, id: KR3k0049_CHANT_008-bkkpn4138}
   - {type: variant, offset: 18182, length: 1, content: 番, WYG: 畨}
   - {type: variant, offset: 18182, length: 1, content: 番, krp: 畨}
+  - {type: voice, offset: 18182, length: 6, name: note, id: n2}
   - {type: punctuation, offset: 18188, content: ), id: KR3k0049_CHANT_008-bkkpn4139}
   - {type: variant, offset: 18190, length: 1, content: 石, WYG: ''}
   - {type: variant, offset: 18190, length: 1, content: 石, krp: ''}
   - {type: punctuation, offset: 18191, content: (, id: KR3k0049_CHANT_008-bkkpn4140}
+  - {type: voice, offset: 18191, length: 4, name: note, id: n3}
   - {type: punctuation, offset: 18195, content: ), id: KR3k0049_CHANT_008-bkkpn4141}
   - {type: punctuation, offset: 18197, content: (, id: KR3k0049_CHANT_008-bkkpn4142}
+  - {type: voice, offset: 18197, length: 5, name: note, id: n4}
   - {type: punctuation, offset: 18202, content: ), id: KR3k0049_CHANT_008-bkkpn4143}
   - {type: punctuation, offset: 18203, content: 。, id: KR3k0049_CHANT_008-bkkpn4144}
   - {type: 'tls:seg', offset: 18203, content: '', id: KR3k0049_CHANT_008-261a.18}
@@ -15018,4 +15022,4 @@ markers:
   - {type: variant, offset: 26674, length: 1, content: 卷, WYG: 巻}
   - {type: variant, offset: 26674, length: 1, content: 卷, krp: 巻}
   back: []
-hash: sha256:c90ed073eef4a1e3c8265ed1912c422a29ee0bf84868d5dc2996e14b6beb96a4
+hash: sha256:82fc679c71171f0cf3cb5c8a1c6162e368f451c003c850eeacfb596b467735fe

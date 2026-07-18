@@ -9592,6 +9592,7 @@ markers:
   - {type: punctuation, offset: 19038, content: 》, id: KR3k0049_CHANT_004-bkkpn3640}
   - {type: 'tls:seg', offset: 19038, content: '', id: KR3k0049_CHANT_004-242a.12}
   - {type: punctuation, offset: 19038, content: (, id: KR3k0049_CHANT_004-bkkpn3641}
+  - {type: voice, offset: 19038, length: 5, name: note, id: n1}
   - {type: variant, offset: 19040, length: 1, content: 鄉, WYG: 郷}
   - {type: variant, offset: 19040, length: 1, content: 鄉, krp: 郷}
   - {type: punctuation, offset: 19043, content: ), id: KR3k0049_CHANT_004-bkkpn3642}
@@ -12793,4 +12794,4 @@ markers:
   - {type: xml-element, offset: 25533, content: '', id: KR3k0049_CHANT_004-bkkxmlele756}
   - {type: page-break, offset: 25533, content: '', id: KR3k0049_WYG_004-86b, image: WYG0965/WYG0965-0191b.png}
   back: []
-hash: sha256:7fc8c975e1db139e92169ad0837c5d9c2f411a63a5a76ac02752bf9f92083bf8
+hash: sha256:02557173c1bef0ced01768094b1cfc5a3229b44a4b66ef2baf8cfe8f3e6b1c84

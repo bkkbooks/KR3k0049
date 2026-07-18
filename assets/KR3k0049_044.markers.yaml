@@ -6453,6 +6453,7 @@ markers:
   - {type: punctuation, offset: 10472, content: 」, id: KR3k0049_CHANT_044-bkkpn2558}
   - {type: 'tls:seg', offset: 10472, content: '', id: KR3k0049_CHANT_044-p340s10}
   - {type: punctuation, offset: 10472, content: (, id: KR3k0049_CHANT_044-bkkpn2559}
+  - {type: voice, offset: 10472, length: 34, name: note, id: n1}
   - {type: punctuation, offset: 10479, content: ，, id: KR3k0049_CHANT_044-bkkpn2560}
   - {type: 'tls:seg', offset: 10479, content: '', id: KR3k0049_CHANT_044-p340s12}
   - {type: variant, offset: 10482, length: 1, content: 蓮, WYG: 􅅾}
@@ -7845,6 +7846,7 @@ markers:
   - {type: punctuation, offset: 12574, content: 」, id: KR3k0049_CHANT_044-bkkpn3107}
   - {type: 'tls:seg', offset: 12574, content: '', id: KR3k0049_CHANT_044-p410s40}
   - {type: punctuation, offset: 12574, content: (, id: KR3k0049_CHANT_044-bkkpn3108}
+  - {type: voice, offset: 12574, length: 7, name: note, id: n2}
   - {type: variant, offset: 12576, length: 1, content: 荊, WYG: 荆}
   - {type: variant, offset: 12576, length: 1, content: 荊, krp: 荆}
   - {type: page-break, offset: 12577, content: '', id: KR3k0049_WYG_044-44a, image: WYG0967/WYG0967-0125a.png}
@@ -11803,6 +11805,7 @@ markers:
   - {type: punctuation, offset: 18839, content: ，, id: KR3k0049_CHANT_044-bkkpn4687}
   - {type: 'tls:seg', offset: 18839, content: '', id: KR3k0049_CHANT_044-p692s4}
   - {type: punctuation, offset: 18841, content: (, id: KR3k0049_CHANT_044-bkkpn4688}
+  - {type: voice, offset: 18841, length: 3, name: note, id: n3}
   - {type: punctuation, offset: 18844, content: ), id: KR3k0049_CHANT_044-bkkpn4689}
   - {type: punctuation, offset: 18848, content: ，, id: KR3k0049_CHANT_044-bkkpn4690}
   - {type: 'tls:seg', offset: 18848, content: '', id: KR3k0049_CHANT_044-p692s6}
@@ -15035,6 +15038,7 @@ markers:
   - {type: punctuation, offset: 24293, content: 。, id: KR3k0049_CHANT_044-bkkpn5974}
   - {type: 'tls:seg', offset: 24293, content: '', id: KR3k0049_CHANT_044-p828s34}
   - {type: punctuation, offset: 24293, content: (, id: KR3k0049_CHANT_044-bkkpn5975}
+  - {type: voice, offset: 24293, length: 6, name: note, id: n4}
   - {type: punctuation, offset: 24294, content: 《, id: KR3k0049_CHANT_044-bkkpn5976}
   - {type: variant, offset: 24295, length: 1, content: 寬, WYG: 寛}
   - {type: variant, offset: 24295, length: 1, content: 寬, krp: 寛}
@@ -15498,4 +15502,4 @@ markers:
   - {type: xml-element, offset: 25040, content: '', id: KR3k0049_CHANT_044-p852_end}
   - {type: page-break, offset: 25040, content: '', id: KR3k0049_WYG_044-86b, image: WYG0967/WYG0967-0146b.png}
   back: []
-hash: sha256:b9fa45c1d3d1e7f37a8e60d4425a39de91a8c75e63a31a8a9169f4db6538383e
+hash: sha256:258aabb5732bdeb9924291dc290ebc6acd87e019c1dc5a0b591704d05184749a

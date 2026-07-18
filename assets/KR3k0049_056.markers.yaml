@@ -3578,6 +3578,7 @@ markers:
   - {type: variant, offset: 6109, length: 1, content: 高, krp: 髙}
   - {type: punctuation, offset: 6112, content: 》, id: KR3k0049_CHANT_056-bkkpn1460}
   - {type: punctuation, offset: 6112, content: (, id: KR3k0049_CHANT_056-bkkpn1461}
+  - {type: voice, offset: 6112, length: 13, name: note, id: n1}
   - {type: variant, offset: 6117, length: 1, content: 乘, WYG: 乗}
   - {type: variant, offset: 6117, length: 1, content: 乘, krp: 乗}
   - {type: punctuation, offset: 6125, content: 。, id: KR3k0049_CHANT_056-bkkpn1462}
@@ -12185,6 +12186,7 @@ markers:
   - {type: variant, offset: 21114, length: 1, content: 搜, krp: 捜}
   - {type: punctuation, offset: 21117, content: 》, id: KR3k0049_CHANT_056-bkkpn4994}
   - {type: punctuation, offset: 21117, content: (, id: KR3k0049_CHANT_056-bkkpn4995}
+  - {type: voice, offset: 21117, length: 7, name: note, id: n2}
   - {type: punctuation, offset: 21120, content: 、, id: KR3k0049_CHANT_056-bkkpn4996}
   - {type: punctuation, offset: 21124, content: 。, id: KR3k0049_CHANT_056-bkkpn4997}
   - {type: 'tls:seg', offset: 21124, content: '', id: KR3k0049_CHANT_056-p574s50}
@@ -16304,4 +16306,4 @@ markers:
   - {type: 'tls:seg', offset: 28208, content: '', id: KR3k0049_CHANT_056-p752s4}
   - {type: xml-element, offset: 28208, content: '', id: KR3k0049_CHANT_056-p752_end}
   back: []
-hash: sha256:07493b8cee2769332a343ac3b80d999d45f077c2c7a625c36706d07cc3521a80
+hash: sha256:a9e3de4354fe0c698bae67d2d5079242217f9214772c535614065602fa401270
